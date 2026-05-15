@@ -1,0 +1,5 @@
+# Credenciales reales - nunca subir
+database.real.php
+.env
+error_log
+*.log
